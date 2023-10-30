@@ -64,4 +64,3 @@ buku.id_kategori');
  $this->db->where($where);
  return $this->db->get();
  }
- 
